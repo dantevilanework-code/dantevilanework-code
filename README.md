@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**dantevilanework-code/dantevilanework-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dante, an upcoming Software Developer based in South Africa
 
-Here are some ideas to get you started:
+I code what strikes my mind on topics that deserve improvement in efficiency and availability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main IDE currently is VSC, predominantly focused on Website Development with HTML, CSS and JavaScript (Beginning)
+
+Additionally, I work with NetBeans in creating simple functionally based programs with Java (Experienced with 50+ projects in Curro Online)
+
+My first website coded is pinned, quiz-game
+
+Fun Facts:
+
+- Big fan of all forms of technology 
+- Science and Environmental enthusiast
+- Athletic and experienced in playing the guitar
